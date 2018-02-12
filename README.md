@@ -13,4 +13,28 @@
 ###### On choosing option 1 (top10 heavy files on system will be shown)
 ![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-12%2014-07-47.png)
 
-### 2. Cleaning Desktop 
+### 2. Cleaning Desktop
+
+###### Desktop messed up
+![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-12%2017-06-31.png)
+
+###### Documents folder initially
+
+![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-12%2014-27-49.png)
+
+
+###### On running the sort_files.py script
+
+![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-12%2014-24-39.png)
+
+###### Documents folder modified
+
+![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-12%2014-25-19.png)
+
+###### Eg: All the pdf files are stored in PDF folder in Documents
+
+![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-12%2014-31-48.png)
+
+###### Desktop now looks like this
+
+![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-12%2017-14-03.png)
