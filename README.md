@@ -1,7 +1,7 @@
 # Infra Problem
 ## Three things are implemented as per the problem statement
 - Cleaning Desktop
-- Deletion of files if it has not been modified since the last 15 weeks
+- Deletion of files if it has not been modified since the last 15 weeks as per user's input
 - Identifying top 10 files according to their size
 
 ### 1. Cleaning Desktop
@@ -30,6 +30,7 @@
 
 ![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-12%2017-14-03.png)
 
+### 2. Deletion of files if it has not been modified since the last 15 weeks as per user's input
 
 ### 3. Identifying top 10 files according to their size
 
