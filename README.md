@@ -32,6 +32,13 @@
 
 ### 2. Deletion of files if it has not been modified since the last 15 weeks as per user's input
 
+##### Before running the script
+![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/imageedit_1_8664118878.gif)
+
+##### On running the sort_accessTime.py script
+![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-20%2012-13-38.png)
+
+
 ### 3. Identifying top 10 files according to their size
 
 ##### On running sort_size.py script
