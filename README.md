@@ -1,10 +1,10 @@
-# Infra Problem
+# **Infra Problem**
 ## Three things are implemented as per the problem statement
 - Cleaning Desktop
 - Deletion of files from Desktop and Downloads folder if it has not been modified since the last 15 weeks as per user's input
 - Identifying top 10 files according to their size
 
-### 1. Cleaning Desktop
+### **1. Cleaning Desktop**
 
 ##### Desktop messed up
 ![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-12%2017-06-31.png)
@@ -30,7 +30,7 @@
 
 ![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-12%2017-14-03.png)
 
-### 2. Deletion of files from Desktop and Downloads folder if it has not been modified since the last 15 weeks as per user's input
+### **2. Deletion of files from Desktop and Downloads folder if it has not been modified since the last 15 weeks as per user's input**
 
 ##### Downloads folder before running the script
 ![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/imageedit_1_8664118878.gif)
@@ -43,7 +43,7 @@
 ##### Downloads after running the script
 ![alt text](https://github.com/SakshamSaxena97/file_management/blob/master/screenshots/Screenshot%20from%202018-02-20%2012-07-57.png)
 
-### 3. Identifying top 10 files according to their size
+### **3. Identifying top 10 files according to their size**
 
 ##### On running sort_size.py script
 
